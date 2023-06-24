@@ -1,0 +1,278 @@
+ SQL syntax error 
+ MySQL error 
+ PostgreSQL error 
+ Oracle error 
+ Microsoft SQL error 
+ PostgreSQL error Syntax error at or near 
+ Syntax error at or near 
+ PostgreSQL error code 42501 or Permission denied 
+ PostgreSQL error code 
+ SQL syntax error Incorrect use of quotation marks 
+ SQL syntax error Missing or misplaced keywords 
+ SQL syntax error Incorrect use of operators 
+ SQL syntax error Misspelled or undefined table or column names 
+ SQL syntax error Incorrect use of parentheses 
+ SQL syntax error Improperly formatted date or time values 
+ SQL syntax error Incorrect use of data types 
+ SQL syntax error Improper use of wildcards 
+ SQL syntax error Incomplete or incorrect SQL statements 
+ SQL syntax error Improper use of comments 
+ MySQL error Table does not exist 
+ MySQL error Incorrect syntax 
+ You have an error in your SQL syntax; 
+ MySQL error Duplicate entry for key 
+ MySQL error Incorrect data type for column 
+ MySQL error Connection refused 
+ MySQL error Server shutdown in progress 
+ MySQL error Out of memory 
+ MySQL error User not authorized to access database 
+ MySQL error Error creating table 
+ MySQL error Error dropping table 
+ PostgreSQL error code 1053 or The service did not respond to the start or control request in a timely fashion 
+ PostgreSQL error Role does not exist 
+ PostgreSQL error Relation does not exist 
+ PostgreSQL error Could not connect to server no such file or directory or Could not connect to server connection refused 
+ PostgreSQL error nvalid input syntax 
+ PostgreSQL error Permission denied for database 
+ PostgreSQL error Code 42703 or Column does not exist 
+ PostgreSQL error Could not extend file or No space left on device 
+ Oracle error Insufficient privileges 
+ Oracle error Invalid SQL statement 
+ Oracle error Table or view does not exist 
+ Oracle error ORA-00904: invalid identifier 
+ Oracle error ORA-02291: integrity constraint violated 
+ Oracle error ORA-01400: cannot insert NULL into 
+ Oracle error ORA-01403: no data found 
+ Oracle error ORA-01722: invalid number 
+ Oracle error ORA-03113: end-of-file on communication channel 
+ Oracle error ORA-04091: table is mutating trigger/function may not see it 
+ Microsoft SQL error Incorrect syntax near 
+ Microsoft SQL error Invalid object name 
+ Microsoft SQL error The database is in use 
+ Microsoft SQL error A network-related or instance-specific error occurred 
+ Microsoft SQL error The server principal 'username' is not able to access the database 'database name' 
+ Microsoft SQL error The transaction log for database 'database name' is full 
+ Microsoft SQL error Cannot open database 'database name' requested by the login 
+ Microsoft SQL error Arithmetic overflow error 
+ Microsoft SQL error Cannot create file 'filename'. Access is denied. 
+ Microsoft SQL error Error converting data type varchar to numeric. 
+ Undefined function 'function name' in expression 
+ Syntax error in JOIN operation 
+ SQLCODE=-204 
+ SQLSTATE=42704 
+ Dynamic SQL Error: SQL error code = -104; Token unknown 
+ Error reading data from the connection 
+ SQL error -4008 
+ database disk image is malformed 
+ Incorrect syntax near 'keyword' 
+ Server message: number severity state line number 
+ SQL error occurred in database 
+ Column count does not match 
+ No such table 
+ Malformed query 
+ ERROR 42X05: Table/View 'table name' does not exist 
+ ERROR: relation 'table name' does not exist 
+ Unexpected token 
+ Unable to connect to database 
+ Table 'table name' does not exist 
+ ERROR: relation 'table name' does not exist 
+ DB::Exception: Cannot parse input: expected one of: COMMENT SELECT SHOW USE CREATE DROP ALTER RENAME INSERT DELETE UPDATE ATTACH DETACH KILL CHECK OPTIMIZE ALTER RESET STOP RELOAD SHUTDOWN CREATE EXISTS DESCRIBE OPTIMIZE IN VALUES 
+ SQLParseException: line 
+ no viable alternative at input 
+ Table already exists 
+ Column not found SQLCODE=- 
+ Cannot create database file 
+ Object does not exist 
+ Syntax error 
+ Unexpected token 
+ Table not found 
+ Syntax error 
+ Transaction aborted due to statement error. 
+ Unable to connect to database 
+ Warning: mysqli_prepare() expects parameter 1 to be mysqli boolean given 
+ Warning: mysqli_stmt_bind_param() expects parameter 1 to be mysqli_stmt boolean given 
+ Warning: mysqli_stmt_execute() expects parameter 1 to be mysqli_stmt boolean given 
+ Warning: mysqli_stmt_bind_result() expects parameter 1 to be mysqli_stmt boolean given 
+ Warning: mysqli_stmt_fetch() expects parameter 1 to be mysqli_stmt boolean given 
+ Warning: mysqli_query() expects parameter 1 to be mysqli boolean given 
+ Warning: mysqli_fetch_assoc() expects parameter 1 to be mysqli_result boolean given 
+ Warning: mysqli_fetch_array() expects parameter 1 to be mysqli_result boolean given 
+ Warning: mysqli_num_rows() expects parameter 1 to be mysqli_result boolean given 
+ Warning: mysqli_stmt_num_rows() expects parameter 1 to be mysqli_stmt boolean given 
+ Warning: mysqli_stmt_result_metadata() expects parameter 1 to be mysqli_stmt boolean given 
+ Warning: mysqli_stmt_get_result() expects parameter 1 to be mysqli_stmt boolean given 
+ Warning: PDO::prepare() expects parameter 1 to be string boolean given 
+ Warning: PDOStatement::execute() expects parameter 1 to be array boolean given 
+ Warning: PDOStatement::bindValue() expects parameter 1 to be int boolean given 
+ Warning: PDOStatement::bindParam() expects parameter 1 to be int boolean given 
+ Warning: PDO::query() expects parameter 1 to be string boolean given 
+ Warning: PDO::exec() expects parameter 1 to be string boolean given 
+ Warning: pg_prepare() expects parameter 1 to be resource boolean given 
+ Warning: pg_execute() expects parameter 1 to be resource boolean given 
+ Warning: pg_query_params() expects parameter 1 to be resource boolean given 
+ Warning: pg_query() expects parameter 1 to be resource boolean given 
+ Warning: pg_fetch_assoc() expects parameter 1 to be resource boolean given 
+ Warning: pg_fetch_array() expects parameter 1 to be resource boolean given 
+ Warning: pg_num_rows() expects parameter 1 to be resource boolean given 
+ Warning: oci_parse() expects parameter 1 to be resource boolean given 
+ Warning: oci_execute() expects parameter 1 to be resource boolean given 
+ Warning: oci_bind_by_name() expects parameter 1 to be resource boolean given 
+ Warning: oci_fetch_assoc() expects parameter 1 to be resource boolean given 
+ Warning: oci_fetch_array() expects parameter 1 to be resource boolean given 
+ Warning: oci_num_rows() expects parameter 1 to be resource boolean given 
+ Warning: sqlite_prepare() expects parameter 1 to be resource boolean given 
+ Warning: sqlite_exec() expects parameter 1 to be resource boolean given 
+ Warning: sqlite_query() expects parameter 1 to be resource boolean given 
+ Warning: sqlite_fetch_array() expects parameter 1 to be resource boolean given 
+ Warning: sqlite_fetch_all() expects parameter 1 to be resource boolean given 
+ Warning: sqlite_num_rows() expects parameter 1 to be resource boolean given 
+ Warning: ibase_prepare() expects parameter 1 to be resource boolean given 
+ Warning: ibase_execute() expects parameter 1 to be resource boolean given 
+ Warning: ibase_fetch_assoc() expects parameter 1 to be resource boolean given 
+ Warning: ibase_fetch_object() expects parameter 1 to be resource boolean given 
+ Warning: ibase_fetch_row() expects parameter 1 to be resource boolean given 
+ Warning: ibase_num_fields() expects parameter 1 to be resource boolean given 
+ Warning: mssql_execute() expects parameter 1 to be resource boolean given 
+ Warning: mssql_bind() expects parameter 1 to be resource boolean given 
+ Warning: mssql_query() expects parameter 1 to be resource boolean given 
+ Warning: mssql_fetch_assoc() expects parameter 1 to be resource boolean given 
+ Warning: mssql_fetch_array() expects parameter 1 to be resource boolean given 
+ Warning: mssql_num_rows() expects parameter 1 to be resource boolean given 
+ Warning: odbc_prepare() expects parameter 1 to be resource boolean given 
+ Warning: odbc_execute() expects parameter 1 to be resource boolean given 
+ Warning: odbc_fetch_array() expects parameter 1 to be resource boolean given 
+ Warning: odbc_num_rows() expects parameter 1 to be resource boolean given 
+ SQL syntax error Incorrect use of quotation marks 
+ SQL syntax error Missing or misplaced keywords 
+ SQL syntax error Incorrect use of operators 
+ SQL syntax error Misspelled or undefined table or column names 
+ SQL syntax error Incorrect use of parentheses 
+ SQL syntax error Improperly formatted date or time values 
+ SQL syntax error Incorrect use of data types 
+ SQL syntax error Improper use of wildcards 
+ SQL syntax error Incomplete or incorrect SQL statements 
+ SQL syntax error Improper use of comments 
+ MySQL error Table does not exist 
+ MySQL error Incorrect syntax 
+ You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 
+ MySQL error Duplicate entry for key 
+ MySQL error Incorrect data type for column 
+ MySQL error Connection refused 
+ MySQL error Server shutdown in progress 
+ MySQL error Out of memory 
+ MySQL error User not authorized to access database 
+ MySQL error Error creating table 
+ MySQL error Error dropping table 
+ PostgreSQL error code 1053 or The service did not respond to the start or control request in a timely fashion 
+ PostgreSQL error Role does not exist 
+ PostgreSQL error Relation does not exist 
+ PostgreSQL error Could not connect to server no such file or directory or Could not connect to server connection refused 
+ PostgreSQL error nvalid input syntax 
+ PostgreSQL error Permission denied for database 
+ PostgreSQL error Code 42703 or Column does not exist 
+ PostgreSQL error Could not extend file or No space left on device 
+ Oracle error Insufficient privileges 
+ Oracle error Invalid SQL statement 
+ Oracle error Table or view does not exist 
+ Oracle error ORA-00904: invalid identifier 
+ Oracle error ORA-02291: integrity constraint violated 
+ Oracle error ORA-01400: cannot insert NULL into 
+ Oracle error ORA-01403: no data found 
+ Oracle error ORA-01722: invalid number 
+ Oracle error ORA-03113: end-of-file on communication channel 
+ Oracle error ORA-04091: table is mutating trigger/function may not see it 
+ Microsoft SQL error Incorrect syntax near 
+ Microsoft SQL error Invalid object name 
+ Microsoft SQL error The database is in use 
+ Microsoft SQL error A network-related or instance-specific error occurred 
+ Microsoft SQL error The server principal 'username' is not able to access the database 'database name' 
+ Microsoft SQL error The transaction log for database 'database name' is full 
+ Microsoft SQL error Cannot open database 'database name' requested by the login 
+ Microsoft SQL error Arithmetic overflow error 
+ Microsoft SQL error Cannot create file 'filename'. Access is denied. 
+ Microsoft SQL error Error converting data type varchar to numeric. 
+ Undefined function 'function name' in expression 
+ Syntax error in JOIN operation 
+
+ Dynamic SQL Error: SQL error code; Token unknown 
+ Error reading data from the connection 
+ SQL error -4008 
+ database disk image is malformed 
+ Incorrect syntax near 'keyword' 
+ Server message: number severity state line number 
+ SQL error occurred in database 
+ Column count does not match 
+ No such table 
+ Malformed query 
+ ERROR 42X05: Table/View 'table name' does not exist 
+ ERROR: relation 'table name' does not exist 
+ Unexpected token 
+ Unable to connect to database 
+ Table 'table name' does not exist 
+ ERROR: relation 'table name' does not exist 
+ DB::Exception: Cannot parse input: expected one of: COMMENT SELECT SHOW USE CREATE DROP ALTER RENAME INSERT DELETE UPDATE ATTACH DETACH KILL CHECK OPTIMIZE ALTER RESET STOP RELOAD SHUTDOWN CREATE EXISTS DESCRIBE OPTIMIZE IN VALUES 
+ SQLParseException: line 
+ no viable alternative at input 
+ Table already exists 
+ Column not found SQLCODE=- 
+ Cannot create database file 
+ Object does not exist 
+ Syntax error 
+ Unexpected token 
+ Table not found 
+ Syntax error 
+ Transaction aborted due to statement error. 
+ Unable to connect to database 
+ Warning: mysqli_prepare() expects parameter 1 to be mysqli boolean given 
+ Warning: mysqli_stmt_bind_param() expects parameter 1 to be mysqli_stmt boolean given 
+ Warning: mysqli_stmt_execute() expects parameter 1 to be mysqli_stmt boolean given 
+ Warning: mysqli_stmt_bind_result() expects parameter 1 to be mysqli_stmt boolean given 
+ Warning: mysqli_stmt_fetch() expects parameter 1 to be mysqli_stmt boolean given 
+ Warning: mysqli_query() expects parameter 1 to be mysqli boolean given 
+ Warning: mysqli_fetch_assoc() expects parameter 1 to be mysqli_result boolean given 
+ Warning: mysqli_fetch_array() expects parameter 1 to be mysqli_result boolean given 
+ Warning: mysqli_num_rows() expects parameter 1 to be mysqli_result boolean given 
+ Warning: mysqli_stmt_num_rows() expects parameter 1 to be mysqli_stmt boolean given 
+ Warning: mysqli_stmt_result_metadata() expects parameter 1 to be mysqli_stmt boolean given 
+ Warning: mysqli_stmt_get_result() expects parameter 1 to be mysqli_stmt boolean given 
+ Warning: PDO::prepare() expects parameter 1 to be string boolean given 
+ Warning: PDOStatement::execute() expects parameter 1 to be array boolean given 
+ Warning: PDOStatement::bindValue() expects parameter 1 to be int boolean given 
+ Warning: PDOStatement::bindParam() expects parameter 1 to be int boolean given 
+ Warning: PDO::query() expects parameter 1 to be string boolean given 
+ Warning: PDO::exec() expects parameter 1 to be string boolean given 
+ Warning: pg_prepare() expects parameter 1 to be resource boolean given 
+ Warning: pg_execute() expects parameter 1 to be resource boolean given 
+ Warning: pg_query_params() expects parameter 1 to be resource boolean given 
+ Warning: pg_query() expects parameter 1 to be resource boolean given 
+ Warning: pg_fetch_assoc() expects parameter 1 to be resource boolean given 
+ Warning: pg_fetch_array() expects parameter 1 to be resource boolean given 
+ Warning: pg_num_rows() expects parameter 1 to be resource boolean given 
+ Warning: oci_parse() expects parameter 1 to be resource boolean given 
+ Warning: oci_execute() expects parameter 1 to be resource boolean given 
+ Warning: oci_bind_by_name() expects parameter 1 to be resource boolean given 
+ Warning: oci_fetch_assoc() expects parameter 1 to be resource boolean given 
+ Warning: oci_fetch_array() expects parameter 1 to be resource boolean given 
+ Warning: oci_num_rows() expects parameter 1 to be resource boolean given 
+ Warning: sqlite_prepare() expects parameter 1 to be resource boolean given 
+ Warning: sqlite_exec() expects parameter 1 to be resource boolean given 
+ Warning: sqlite_query() expects parameter 1 to be resource boolean given 
+ Warning: sqlite_fetch_array() expects parameter 1 to be resource boolean given 
+ Warning: sqlite_fetch_all() expects parameter 1 to be resource boolean given 
+ Warning: sqlite_num_rows() expects parameter 1 to be resource boolean given 
+ Warning: ibase_prepare() expects parameter 1 to be resource boolean given 
+ Warning: ibase_execute() expects parameter 1 to be resource boolean given 
+ Warning: ibase_fetch_assoc() expects parameter 1 to be resource boolean given 
+ Warning: ibase_fetch_object() expects parameter 1 to be resource boolean given 
+ Warning: ibase_fetch_row() expects parameter 1 to be resource boolean given 
+ Warning: ibase_num_fields() expects parameter 1 to be resource boolean given 
+ Warning: mssql_execute() expects parameter 1 to be resource boolean given 
+ Warning: mssql_bind() expects parameter 1 to be resource boolean given 
+ Warning: mssql_query() expects parameter 1 to be resource boolean given 
+ Warning: mssql_fetch_assoc() expects parameter 1 to be resource boolean given 
+ Warning: mssql_fetch_array() expects parameter 1 to be resource boolean given 
+ Warning: mssql_num_rows() expects parameter 1 to be resource boolean given 
+ Warning: odbc_prepare() expects parameter 1 to be resource boolean given 
+ Warning: odbc_execute() expects parameter 1 to be resource boolean given 
+ Warning: odbc_fetch_array() expects parameter 1 to be resource boolean given 
+ Warning: odbc_num_rows() expects parameter 1 to be resource boolean given 
